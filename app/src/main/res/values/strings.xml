@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VPMDemo</string>
+    <string name="app_title">手机号码归属地查询</string>
+    <string name="app_hint">请输入手机号</string>
+    <string name="search_text">查询号码</string>
+    <string name="result_phone">手机号: %1$s</string>
+    <string name="result_province">省份: %1$s</string>
+    <string name="result_type">运营商: %1$s</string>
+    <string name="result_carrier">归属运营商: %1$s</string>
+    <string name="search_toast">请输正确的手机号 </string>
+</resources>
