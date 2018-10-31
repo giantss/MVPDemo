@@ -1,6 +1,10 @@
 # Built application files
 *.apk
 *.ap_
+.idea/
+.idea/misc.xml
+.idea/modules.xm
+.DS_Store
 
 # Files for the ART/Dalvik VM
 *.dex
